@@ -1,5 +1,8 @@
-# R-Unity [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7dd42aa3d855420b8613d90ad188c973)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bledixon/Rotmg-Unity&amp;utm_campaign=Badge_Grade) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-R-Unity is a Unity game client for Realm of the Mad God Private Servers. This project represents a similar structure of regular AS3 game client (reference: [RotMG DECA 27.7](https://github.com/cp-nilly/rotmg-deca-27.7)).
+# R-Unity
+[![Codacy Badge][codacy-badge]][codacy]
+[![License: MIT][license-badge]][license]
+
+R-Unity is a Unity game client for Realm of the Mad God Private Servers. This project represents a similar structure of regular AS3 game client (reference: [RotMG DECA 27.7][as3-reference]).
 
 ## Documentation
 This repository contains all documentation related to R-Unity, see **[documentation][r-unity docs]**.
@@ -13,6 +16,13 @@ This repository contains all documentation related to R-Unity, see **[documentat
 | **Priest** | [none][priest] | **UT Reborn** |
 | **Lynx** | none | **UT Reborn** |
 
+[codacy]: https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Bledixon/Rotmg-Unity&amp;utm_campaign=Badge_Grade
+[codacy-badge]: https://api.codacy.com/project/badge/Grade/7dd42aa3d855420b8613d90ad188c973
+
+[license]: https://opensource.org/licenses/MIT
+[license-badge]: https://img.shields.io/badge/License-MIT-yellow.svg
+
+[as3-reference]: https://github.com/cp-nilly/rotmg-deca-27.7
 [r-unity docs]: https://devwarlt.github.io/r-unity-docs/
 
 [bledixon]: https://github.com/Bledixon
