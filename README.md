@@ -2,11 +2,26 @@
 R-Unity is a Unity game client for Realm of the Mad God Private Servers. This project represents a similar structure of regular AS3 game client (reference: [RotMG DECA 27.7](https://github.com/cp-nilly/rotmg-deca-27.7)).
 
 ## Documentation
-This repository contains all documentation related to R-Unity.
+This repository contains all documentation related to R-Unity, see **[documentation][r-unity docs]**.
 
 ## R-Unity Developers
-- [@Bledixon](https://github.com/Bledixon), **Project B - Rise**
-- [@Devwarlt](https://github.com/Devwarlt), **LoESoft Games**
-- [@Shot](https://github.com/ShotRotMG), **Shot's Realm**
-- [@Priest](https://github.com/EpicQuackIV), **UT Reborn** (removed from team)
-- @Lynx, **UT Reborn**
+| Developer | GitHub Profile | Partner Member
+| --- | --- | --- |
+| **Bledixon** | [![avatar][bledixon-avatar]][bledixon] | **Project B - Rise** |
+| **Devwarlt** | [![avatar][devwarlt-avatar]][devwarlt] | **LoESoft Games** and **Shot's Realm** |
+| **Shot** | [![avatar][shot-avatar]][shot] | **Shot's Realm** |
+| **Priest** | [none][priest] | **UT Reborn** |
+| **Lynx** | none | **UT Reborn** |
+
+[r-unity docs]: https://devwarlt.github.io/r-unity-docs/
+
+[bledixon]: https://github.com/Bledixon
+[bledixon-avatar]: https://avatars0.githubusercontent.com/u/12498599?s=96
+
+[devwarlt]: https://github.com/Devwarlt
+[devwarlt-avatar]: https://avatars3.githubusercontent.com/u/21364516?s=96
+
+[shot]: https://github.com/ShotRotMG
+[shot-avatar]: https://avatars3.githubusercontent.com/u/19337217?s=96
+
+[priest]: https://github.com/EpicQuackIV
